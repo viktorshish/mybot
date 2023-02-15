@@ -26,6 +26,5 @@ def main():
     mybot.start_polling()
     mybot.idle()
 
-if __name__ ='_main_':
-        ьфшт()
-main()
+if __name__ == '_main_':
+    main()
